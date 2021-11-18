@@ -1,6 +1,6 @@
 # Redux Persist Example
 
-A simple pokemon search app!
+A simple booklist app with redux persist!
 
 <!-- ![](https://imgur.com/mqlQYyF) -->
 
